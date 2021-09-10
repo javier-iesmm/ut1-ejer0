@@ -1,4 +1,5 @@
 # ut1-ejer0
+# PEPEPEPEPEPEPEP
 Ejercicios de  UT1 de DWEC
 Guarda cada ejercicio en un .js con un nombre descriptivo:
 a)	Indica si un número es par o impar.
@@ -30,3 +31,4 @@ AA
 A
 
 Nota: No te preocupes por la entrada de datos, puedes hacerlos a través de variables, pero prueba diferentes tipos de datos. P.e.: si te piden un número prueba con cuna cadena, si te piden una cadena prueba con mayúsculas y minúsculas, etc.
+
